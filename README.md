@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a MissedConnections app**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Unity, Typescript, Postgre**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/WHAIT666/WHAIT666/issues)**
 
