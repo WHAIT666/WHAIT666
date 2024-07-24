@@ -35,8 +35,20 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,mui,react,angular,vscode,github,figma,git,r" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,java,swift,nodejs,express,php,mysql,mongodb,firebase,unity,robloxstudio" />
+    <h3>Frontend Development</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,mui,react,angular" />
+    <br/><br/>
+    <h3>Backend Development</h3>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+    <br/><br/>
+    <h3>Programming Languages</h3>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,java,swift,r" />
+    <br/><br/>
+    <h3>Databases</h3>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+    <br/><br/>
+    <h3>Tools and Platforms</h3>
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,unity,robloxstudio" />
 </div>
 
 <br/>
