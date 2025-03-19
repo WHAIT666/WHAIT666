@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a MissedConnections app**
+ 🔭 I’m currently working on **a Horror game**
  
  🌱 I’m currently learning **Unity, Typescript, Postgre**
 
