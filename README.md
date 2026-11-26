@@ -25,6 +25,3 @@ Outside work I'm a curious and creative person, and I love diving into projects 
 <img src="assets/label-stack.svg" width="100%" alt="Stack">
 <img src="assets/stack.svg" width="100%" alt="Web: React, Next.js, TypeScript, JavaScript, Tailwind CSS, Redux. Backend: Node.js, Express, Go, MongoDB, MySQL. Native, mobile and games: C++, C#, Unity, Kotlin. Tooling: Git, Postman, Playwright.">
 
-<br>
-<img src="assets/label-experience.svg" width="100%" alt="Experience">
-<img src="assets/experience.svg" width="100%" alt="Full-Stack Developer Intern at Techbase, Braga, April to August 2024: React and TypeScript dashboards for 3CX Nexus, Node.js and Express REST APIs with JWT and MongoDB, and caching that cut external API load by 40%. CTeSP in Web and Mobile Development at ESTG, Felgueiras, 2022 to 2024: 120 ECTS including a software internship.">
