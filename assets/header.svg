@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="André Santos, software engineer building web products and multiplayer game systems. Open to full-time roles.">
+  <defs>
+    
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#141414"/>
+      <stop offset="1" stop-color="#0a0a0a"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="440" rx="24"/></clipPath>
+    
+    
+    <linearGradient id="carbonV" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#151515"/><stop offset="1" stop-color="#0d0d0d"/></linearGradient>
+    <linearGradient id="carbonH" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#121212"/><stop offset="1" stop-color="#0b0b0b"/></linearGradient>
+    <pattern id="carbon" width="14" height="14" patternUnits="userSpaceOnUse">
+      <rect width="7" height="7" fill="url(#carbonV)"/>
+      <rect x="7" y="7" width="7" height="7" fill="url(#carbonV)"/>
+      <rect x="7" width="7" height="7" fill="url(#carbonH)"/>
+      <rect y="7" width="7" height="7" fill="url(#carbonH)"/>
+    </pattern>
+    
+    <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#a6a6a6"/>
+    </linearGradient>
+    <radialGradient id="light" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="ember" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ff6b35" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ff6b35" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="arc" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff6b35" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ff6b35"/>
+    </linearGradient>
+    <linearGradient id="fadeLeft" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0a0a0a" stop-opacity="0.97"/>
+      <stop offset="0.6" stop-color="#0a0a0a" stop-opacity="0.82"/>
+      <stop offset="1" stop-color="#0a0a0a" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="vignette" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0.55"/>
+    </linearGradient>
+    <style>
+      .orbit { transform-origin: 1010px 220px; animation: spin 40s linear infinite; }
+      .orbit2 { transform-origin: 1010px 220px; animation: spin 64s linear infinite reverse; }
+      .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-out infinite; }
+      @keyframes spin { to { transform: rotate(360deg); } }
+      @keyframes pulse { 0% { transform: scale(1); opacity: .6; } 80%, 100% { transform: scale(2.8); opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    </style>
+  </defs>
+  
+  
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="440" fill="url(#carbon)"/>
+    
+    <circle cx="1010" cy="180" r="330" fill="url(#light)"/>
+    <circle cx="1070" cy="340" r="220" fill="url(#ember)"/>
+    <circle cx="1010" cy="220" r="64" fill="none" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1.1" />
+    <circle cx="1010" cy="220" r="112" fill="none" stroke="#ffffff" stroke-opacity="0.26" stroke-width="1.5" stroke-dasharray="3 7"/>
+    <circle cx="1010" cy="220" r="160" fill="none" stroke="#ffffff" stroke-opacity="0.21999999999999997" stroke-width="1.1" />
+    <circle cx="1010" cy="220" r="208" fill="none" stroke="#ffffff" stroke-opacity="0.18" stroke-width="1.5" stroke-dasharray="3 7"/>
+    <circle cx="1010" cy="220" r="256" fill="none" stroke="#ffffff" stroke-opacity="0.13999999999999999" stroke-width="1.1" />
+    <circle cx="1010" cy="220" r="304" fill="none" stroke="#ffffff" stroke-opacity="0.09999999999999998" stroke-width="1.5" stroke-dasharray="3 7"/>
+    <path d="M1064.7 69.6 A160 160 0 0 1 1167.6 247.8" fill="none" stroke="url(#arc)" stroke-width="2.2" stroke-linecap="round"/>
+    <path d="M788.3 348.0 A256 256 0 0 1 778.0 111.8" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="1.4" stroke-linecap="round"/>
+    <g class="orbit"><circle cx="1170" cy="220" r="5" fill="#ff6b35"/></g>
+    <g class="orbit2"><circle cx="1010" cy="-36" r="3.5" fill="#ffffff" fill-opacity="0.85"/></g>
+    <circle cx="1010" cy="220" r="3" fill="#ffffff" fill-opacity="0.7"/>
+    <rect width="780" height="440" fill="url(#fadeLeft)"/>
+    <rect width="1200" height="440" fill="url(#vignette)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="439" rx="23.5" fill="none" stroke="#232323"/>
+  <path d="M24 0.5 H1176" stroke="#ffffff" stroke-opacity="0.07"/>
+
+  <g transform="translate(64 64)">
+    <rect width="318" height="38" rx="19" fill="#121212" stroke="#2f2f2f"/>
+    <circle class="pulse" cx="22" cy="19" r="4.5" fill="#3fb950"/>
+    <circle cx="22" cy="19" r="4.5" fill="#3fb950"/>
+    <text x="38" y="24.5" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'JetBrains Mono', Consolas, Menlo, monospace" font-size="15" letter-spacing="1.6" fill="#f2f2f2">OPEN TO FULL-TIME ROLES</text>
+  </g>
+
+  <text x="60" y="210" font-family="system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="94" font-weight="700" letter-spacing="-3.5" fill="url(#metal)">André Santos</text>
+  <text x="64" y="266" font-family="system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="29" fill="#8c8c8c">Software engineer building web products</text>
+  <text x="64" y="304" font-family="system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="29" fill="#8c8c8c">and multiplayer game systems.</text>
+
+  <line x1="64" y1="350" x2="690" y2="350" stroke="#2f2f2f"/>
+  <text x="64" y="386" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'JetBrains Mono', Consolas, Menlo, monospace" font-size="15" letter-spacing="1.6" fill="#8c8c8c">PAREDES, PT<tspan fill="#ff6b35">  /  </tspan>MOVING TO THE NETHERLANDS</text>
+</svg>

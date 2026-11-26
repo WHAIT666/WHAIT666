@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400" role="img" aria-label="TPC+: Android app + Go backend. Photograph a finished homework page, get fresh practice on the same topic. Maths exercises are computed with exact arithmetic, never invented by a language model. Built with Kotlin, Go, Claude API, ML Kit.">
+  <defs>
+    
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#141414"/>
+      <stop offset="1" stop-color="#0a0a0a"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="600" height="400" rx="20"/></clipPath>
+    
+    
+    <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#a6a6a6"/>
+    </linearGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff6b35"/>
+      <stop offset="0.45" stop-color="#ff6b35" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="light" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  
+  
+  <g clip-path="url(#frame)">
+    <rect width="600" height="400" fill="url(#panel)"/>
+    
+    <circle cx="540" cy="0" r="260" fill="url(#light)"/>
+    <rect width="600" height="2" fill="url(#hair)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="599" height="399" rx="19.5" fill="none" stroke="#232323"/>
+  <path d="M20 0.5 H580" stroke="#ffffff" stroke-opacity="0.07"/>
+
+  <text x="36" y="66" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'JetBrains Mono', Consolas, Menlo, monospace" font-size="15" letter-spacing="1.4" fill="#ff6b35">01</text>
+  <text x="68" y="66" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'JetBrains Mono', Consolas, Menlo, monospace" font-size="15" letter-spacing="1.4" fill="#8c8c8c">/ ANDROID APP + GO BACKEND</text>
+  <g transform="translate(484 45)">
+    <rect width="80" height="28" rx="14" fill="#121212" stroke="#2f2f2f"/>
+    <text x="40" y="19" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'JetBrains Mono', Consolas, Menlo, monospace" font-size="14" letter-spacing="1.2" fill="#8c8c8c">PUBLIC</text>
+  </g>
+
+  <text x="36" y="132" font-family="system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="-1.2" fill="url(#metal)">TPC+</text>
+
+  <text x="36" y="186" font-family="system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#8c8c8c">Photograph a finished homework page, get fresh</text>
+  <text x="36" y="217" font-family="system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#8c8c8c">practice on the same topic. Maths exercises</text>
+  <text x="36" y="248" font-family="system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#8c8c8c">are computed with exact arithmetic, never</text>
+  <text x="36" y="279" font-family="system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#8c8c8c">invented by a language model.</text>
+
+  <g transform="translate(36 326)">
+    <rect width="107" height="38" rx="19" fill="#181818" stroke="#2f2f2f"/>
+    <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYSIgeDE9IjUwMC4wMDMiIHgyPSItLjA5NyIgeTE9IjU3OS4xMDYiIHkyPSIxMDc5LjIwNiIgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgxNS41MzQgLTk2Ljc3NCkgc2NhbGUoLjE5MzkpIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iLjAwMyIgc3RvcC1jb2xvcj0iI2U0NDg1NyIvPgogICAgICA8c3RvcCBvZmZzZXQ9Ii40NjkiIHN0b3AtY29sb3I9IiNjNzExZTEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjN2Y1MmZmIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cGF0aCBmaWxsPSJ1cmwoI2EpIiBkPSJNMTEyLjQ4NCAxMTIuNDg0SDE1LjUxNlYxNS41MTZoOTYuOTY4TDY0IDY0Wm0wIDAiLz4KPC9zdmc+Cg==" x="14" y="9" width="20" height="20"/>
+    <text x="44" y="24.95"  font-family="system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#f2f2f2">Kotlin</text>
+  </g>
+  <g transform="translate(151 326)">
+    <rect width="73" height="38" rx="19" fill="#181818" stroke="#2f2f2f"/>
+    <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48ZyBmaWxsPSIjMDBhY2Q3IiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Ik0xMS4xNTYgNTQuODI5Yy0uMjQzIDAtLjMwMy0uMTIyLS4xODItLjMwM2wxLjI3My0xLjYzN2MuMTItLjE4Mi40MjQtLjMwMy42NjYtLjMwM0gzNC41NWMuMjQzIDAgLjMwMy4xODIuMTgyLjM2NGwtMS4wMyAxLjU3NmMtLjEyMS4xODEtLjQyNC4zNjMtLjYwNi4zNjN6TTIuMDA0IDYwLjQwNGMtLjI0MiAwLS4zMDMtLjEyLS4xODItLjMwM2wxLjI3My0xLjYzNmMuMTIxLS4xODIuNDI0LS4zMDMuNjY3LS4zMDNoMjcuNjM2Yy4yNDIgMCAuMzY0LjE4Mi4zMDMuMzY0bC0uNDg1IDEuNDU0Yy0uMDYuMjQzLS4zMDMuMzY0LS41NDUuMzY0ek0xNi42NyA2NS45OGMtLjI0MiAwLS4zMDItLjE4Mi0uMTgxLS4zNjRsLjg0OC0xLjUxNWMuMTIyLS4xODIuMzY0LS4zNjMuNjA3LS4zNjNoMTIuMTJjLjI0MyAwIC4zNjQuMTgxLjM2NC40MjRsLS4xMiAxLjQ1NGMwIC4yNDMtLjI0My40MjUtLjQyNS40MjV6TTc5LjU4IDUzLjczOGMtMy44MTkuOTctNi40MjUgMS42OTctMTAuMTgyIDIuNjY2LS45MS4yNDMtLjk3LjMwMy0xLjc1OC0uNjA2LS45MDktMS4wMy0xLjU3Ni0xLjY5Ny0yLjg0OC0yLjMwMy0zLjgxOS0xLjg3OC03LjUxNi0xLjMzMy0xMC45Ny45MS00LjEyMSAyLjY2Ni02LjI0MiA2LjYwNS02LjE4MiAxMS41MTQuMDYgNC44NDkgMy4zOTQgOC44NDkgOC4xODIgOS41MTYgNC4xMjEuNTQ1IDcuNTc2LS45MSAxMC4zMDMtNCAuNTQ1LS42NjcgMS4wMy0xLjM5NCAxLjYzNi0yLjI0M0g1Ni4wNjRjLTEuMjcyIDAtMS41NzUtLjc4OC0xLjE1MS0xLjgxOC43ODgtMS44NzkgMi4yNDItNS4wMyAzLjA5LTYuNjA2LjE4My0uMzY0LjYwNy0uOTcgMS41MTYtLjk3aDIyLjA2Yy0uMTIgMS42MzctLjEyIDMuMjczLS4zNjMgNC45MS0uNjY3IDQuMzYzLTIuMzAzIDguMzYzLTQuOTcgMTEuODc4LTQuMzY0IDUuNzU4LTEwLjA2IDkuMzMzLTE3LjI3MyAxMC4zMDMtNS45MzkuNzg4LTExLjQ1NC0uMzY0LTE2LjMwMi00LTQuNDg1LTMuMzk0LTcuMDMtNy44NzktNy42OTctMTMuNDU0LS43ODgtNi42MDYgMS4xNTEtMTIuNTQ2IDUuMTUxLTE3Ljc1OCA0LjMwMy01LjYzNiAxMC05LjIxMiAxNi45Ny0xMC40ODUgNS42OTctMS4wMyAxMS4xNTEtLjM2MyAxNi4wNiAyLjk3IDMuMjEyIDIuMTIxIDUuNTE1IDUuMDMgNy4wMyA4LjU0NS4zNjQuNTQ2LjEyMi44NDktLjYwNiAxLjAzeiIvPjxwYXRoIGQ9Ik05OS42NCA4Ny4yNTNjLTUuNTE1LS4xMjItMTAuNTQ2LTEuNjk3LTE0Ljc4OC01LjMzNC0zLjU3Ni0zLjA5LTUuODE4LTcuMDMtNi41NDUtMTEuNjk3LTEuMDkxLTYuODQ4Ljc4Ny0xMi45MDkgNC45MDktMTguMzAyIDQuNDI0LTUuODE5IDkuNzU3LTguODQ5IDE2Ljk3LTEwLjEyMiA2LjE4MS0xLjA5IDEyLS40ODQgMTcuMjcyIDMuMDkxIDQuNzg4IDMuMjczIDcuNzU3IDcuNjk3IDguNTQ1IDEzLjUxNSAxLjAzIDguMTgyLTEuMzMzIDE0Ljg0OS02Ljk3IDIwLjU0Ni00IDQuMDYtOC45MDkgNi42MDYtMTQuNTQ1IDcuNzU3LTEuNjM2LjMwMy0zLjI3My4zNjQtNC44NDguNTQ2em0xNC40MjQtMjQuNDg1Yy0uMDYtLjc4OC0uMDYtMS4zOTQtLjE4Mi0yLTEuMDktNi02LjYwNi05LjM5NC0xMi4zNjMtOC4wNi01LjYzNyAxLjI3Mi05LjI3MyA0Ljg0OC0xMC42MDYgMTAuNTQ1LTEuMDkxIDQuNzI3IDEuMjEyIDkuNTE1IDUuNTc1IDExLjQ1NCAzLjMzNCAxLjQ1NSA2LjY2NyAxLjI3MyA5Ljg3OS0uMzYzIDQuNzg4LTIuNDg1IDcuMzk0LTYuMzY0IDcuNjk3LTExLjU3NnoiIGZpbGwtcnVsZT0ibm9uemVybyIvPjwvZz48L3N2Zz4K" x="14" y="9" width="20" height="20"/>
+    <text x="44" y="24.95"  font-family="system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#f2f2f2">Go</text>
+  </g>
+  <g transform="translate(232 326)">
+    <rect width="115" height="38" rx="19" fill="#181818" stroke="#2f2f2f"/>
+    
+    <text x="57.5" y="24.95" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#f2f2f2">Claude API</text>
+  </g>
+  <g transform="translate(355 326)">
+    <rect width="81" height="38" rx="19" fill="#181818" stroke="#2f2f2f"/>
+    
+    <text x="40.5" y="24.95" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#f2f2f2">ML Kit</text>
+  </g>
+  
+  <g transform="translate(524 324)">
+    <circle cx="20" cy="20" r="19.5" fill="#181818" stroke="#2f2f2f"/>
+    <path d="M15 25 L25 15 M17 15 H25 V23" fill="none" stroke="#f2f2f2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="174" height="50" viewBox="0 0 174 50" role="img" aria-label="Portfolio">
+  <defs>
+    <linearGradient id="btn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1c1c1c"/><stop offset="1" stop-color="#0f0f0f"/></linearGradient>
+    <linearGradient id="btnHi" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#d4d4d4"/></linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="173" height="49" rx="24.5" fill="url(#btnHi)" stroke="#ffffff"/>
+  <text x="26" y="31.65" font-family="system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#0a0a0a">Portfolio</text>
+  <path d="M0 9 L9 0 M2 0 H9 V7" transform="translate(136 20.5)" fill="none" stroke="#ff6b35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

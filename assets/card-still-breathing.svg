@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400" role="img" aria-label="Still Breathing: Multiplayer survival game. Persistent multiplayer survival in Unity 6, with authoritative networking, SQLite persistence, Steam authentication and proximity voice. Backed by 338 NUnit tests. Built with Unity 6, C#, NUnit.">
+  <defs>
+    
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#141414"/>
+      <stop offset="1" stop-color="#0a0a0a"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="600" height="400" rx="20"/></clipPath>
+    
+    
+    <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#a6a6a6"/>
+    </linearGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff6b35"/>
+      <stop offset="0.45" stop-color="#ff6b35" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="light" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  
+  
+  <g clip-path="url(#frame)">
+    <rect width="600" height="400" fill="url(#panel)"/>
+    
+    <circle cx="540" cy="0" r="260" fill="url(#light)"/>
+    <rect width="600" height="2" fill="url(#hair)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="599" height="399" rx="19.5" fill="none" stroke="#232323"/>
+  <path d="M20 0.5 H580" stroke="#ffffff" stroke-opacity="0.07"/>
+
+  <text x="36" y="66" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'JetBrains Mono', Consolas, Menlo, monospace" font-size="15" letter-spacing="1.4" fill="#ff6b35">02</text>
+  <text x="68" y="66" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'JetBrains Mono', Consolas, Menlo, monospace" font-size="15" letter-spacing="1.4" fill="#8c8c8c">/ MULTIPLAYER SURVIVAL GAME</text>
+  <g transform="translate(414 45)">
+    <rect width="150" height="28" rx="14" fill="#121212" stroke="#2f2f2f"/>
+    <text x="75" y="19" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'JetBrains Mono', Consolas, Menlo, monospace" font-size="14" letter-spacing="1.2" fill="#8c8c8c">IN DEVELOPMENT</text>
+  </g>
+
+  <text x="36" y="132" font-family="system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="-1.2" fill="url(#metal)">Still Breathing</text>
+
+  <text x="36" y="186" font-family="system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#8c8c8c">Persistent multiplayer survival in Unity 6,</text>
+  <text x="36" y="217" font-family="system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#8c8c8c">with authoritative networking, SQLite</text>
+  <text x="36" y="248" font-family="system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#8c8c8c">persistence, Steam authentication and</text>
+  <text x="36" y="279" font-family="system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#8c8c8c">proximity voice. Backed by 338 NUnit tests.</text>
+
+  <g transform="translate(36 326)">
+    <rect width="116" height="38" rx="19" fill="#181818" stroke="#2f2f2f"/>
+    <image href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZWRlZGVkIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNNTkuMDQ5IDAgNy4zMzkgMjkuODU1Vjg5LjU2bDE5LjgyNS0xMS40NVY1NC43MTRjLjAwOS0uNDAyLjIyNS0uNzcxLjU3My0uOTY3YTEuMTMgMS4xMyAwIDAgMSAxLjEyOS0uMDA4bDI0LjA4NyAxMy45YTIuMjc1IDIuMjc1IDAgMCAxIDEuMTMzIDEuOTd2MjcuOGExLjE1NiAxLjE1NiAwIDAgMS0uNTY1Ljk4IDEuMTMxIDEuMTMxIDAgMCAxLTEuMTI0LjAxMmwtMjAuMjctMTEuNzE4LTE5LjgzMiAxMS40Nkw2My45OTEgMTI4bDUxLjcwMi0yOS44NTYtMTkuODE3LTExLjQ2LTIwLjI2MSAxMS43MDNhMS4xNTEgMS4xNTEgMCAwIDEtMS4xMjQtLjAwOCAxLjE0NSAxLjE0NSAwIDAgMS0uNTY4LS45NzZWNjkuNjA4YzAtLjgyLjQyNC0xLjU2IDEuMTMzLTEuOTY4TDk5LjEzIDUzLjczN2ExLjExOSAxLjExOSAwIDAgMSAxLjEyNC4wMDhjLjM1Mi4xOTYuNTcyLjU2NS41NzUuOTY3djIzLjM5NmwxOS44MyAxMS40NTRWMjkuODU1aC0uMDA5TDY4Ljk2IDB2MjIuOWwyMC4yNiAxMS42OTZjLjM0Ny4yMDQuNTU1LjU3Ny41NTUuOTg0IDAgLjQwMy0uMjEyLjc3My0uNTU1Ljk3Nkw2NS4xMzcgNTAuNDY4YTIuMzAyIDIuMzAyIDAgMCAxLTIuMjcgMEwzOC43OTEgMzYuNTU2YTEuMTIyIDEuMTIyIDAgMCAxLS41Ni0uOTc2IDEuMTI3IDEuMTI3IDAgMCAxIC41Ni0uOTg0TDU5LjA0OCAyMi45em0wIDAiLz48L3N2Zz4K" x="14" y="9" width="20" height="20"/>
+    <text x="44" y="24.95"  font-family="system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#f2f2f2">Unity 6</text>
+  </g>
+  <g transform="translate(160 326)">
+    <rect width="73" height="38" rx="19" fill="#181818" stroke="#2f2f2f"/>
+    <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjOUI0Rjk2IiBkPSJNMTE1LjQgMzAuN0w2Ny4xIDIuOWMtLjgtLjUtMS45LS43LTMuMS0uNy0xLjIgMC0yLjMuMy0zLjEuN2wtNDggMjcuOWMtMS43IDEtMi45IDMuNS0yLjkgNS40djU1LjdjMCAxLjEuMiAyLjQgMSAzLjVsMTA2LjgtNjJjLS42LTEuMi0xLjUtMi4xLTIuNC0yLjd6Ii8+PHBhdGggZmlsbD0iIzY4MjE3QSIgZD0iTTEwLjcgOTUuM2MuNS44IDEuMiAxLjUgMS45IDEuOWw0OC4yIDI3LjljLjguNSAxLjkuNyAzLjEuNyAxLjIgMCAyLjMtLjMgMy4xLS43bDQ4LTI3LjljMS43LTEgMi45LTMuNSAyLjktNS40VjM2LjFjMC0uOS0uMS0xLjktLjYtMi44bC0xMDYuNiA2MnoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNODUuMyA3Ni4xQzgxLjEgODMuNSA3My4xIDg4LjUgNjQgODguNWMtMTMuNSAwLTI0LjUtMTEtMjQuNS0yNC41czExLTI0LjUgMjQuNS0yNC41YzkuMSAwIDE3LjEgNSAyMS4zIDEyLjVsMTMtNy41Yy02LjgtMTEuOS0xOS42LTIwLTM0LjMtMjAtMjEuOCAwLTM5LjUgMTcuNy0zOS41IDM5LjVzMTcuNyAzOS41IDM5LjUgMzkuNWMxNC42IDAgMjcuNC04IDM0LjItMTkuOGwtMTIuOS03LjZ6TTk3IDY2LjJsLjktNC4zaC00LjJ2LTQuN2g1LjFMMTAwIDUxaDQuOWwtMS4yIDYuMWgzLjhsMS4yLTYuMWg0LjhsLTEuMiA2LjFoMi40djQuN2gtMy4zbC0uOSA0LjNoNC4ydjQuN2gtNS4xbC0xLjIgNmgtNC45bDEuMi02aC0zLjhsLTEuMiA2aC00LjhsMS4yLTZoLTIuNHYtNC43SDk3em00LjggMGgzLjhsLjktNC4zaC0zLjhsLS45IDQuM3oiLz48L3N2Zz4=" x="14" y="9" width="20" height="20"/>
+    <text x="44" y="24.95"  font-family="system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#f2f2f2">C#</text>
+  </g>
+  <g transform="translate(241 326)">
+    <rect width="73" height="38" rx="19" fill="#181818" stroke="#2f2f2f"/>
+    
+    <text x="36.5" y="24.95" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" fill="#f2f2f2">NUnit</text>
+  </g>
+  
+</svg>
