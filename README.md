@@ -13,7 +13,7 @@ I build React and TypeScript interfaces and the Node.js services behind them. At
 Outside work I'm a curious and creative person, and I love diving into projects I find interesting. Here's what I'm currently working on:
 
 <img src="assets/label-now.svg" width="100%" alt="Now">
-<img src="assets/now.svg" width="100%" alt="Still Breathing: authoritative multiplayer in Unity 6, next is server-side inventory, equipment and loot. TPC+: the exact maths engine is done, next is the usable Android app. Relocating: moving to the Netherlands and open to full-time software roles.">
+<img src="assets/now.svg" width="100%" alt="Still Breathing: a persistent multiplayer survival game, built in Unity 6. TPC+: an Android app that turns a photo of homework into fresh practice. Relocating: moving to the Netherlands and open to full-time roles.">
 
 <br>
 <img src="assets/label-selected-work.svg" width="100%" alt="Selected work">
