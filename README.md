@@ -8,11 +8,10 @@
 
 I build React and TypeScript interfaces and the Node.js services behind them. At **Techbase** I worked on 3CX Nexus, a platform for managing many 3CX VoIP instances from one place, where caching and request optimisation cut external API load by **40%**.
 
-Outside work I ship complete products end to end: an Android app with a Go backend, a multiplayer survival game in Unity, a static reference site in Next.js and a native C++ module. Each one comes with tests, docs and a reason to exist.
-
 <img src="assets/metrics.svg" width="100%" alt="-40% external API load on 3CX Nexus at Techbase. 338 automated tests in Still Breathing. 125 static pages in ATLAS.">
 
-<br>
+Outside work I'm a curious and creative person, and I love diving into projects I find interesting. Here's what I'm currently working on:
+
 <img src="assets/label-now.svg" width="100%" alt="Now">
 <img src="assets/now.svg" width="100%" alt="Still Breathing: authoritative multiplayer in Unity 6, next is server-side inventory, equipment and loot. TPC+: the exact maths engine is done, next is the usable Android app. Relocating: moving to the Netherlands and open to full-time software roles.">
 
